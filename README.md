@@ -1,4 +1,4 @@
-# Angular 2 Full Stack project [![Dependencies][![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/ilyashusterman) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
+# Angular 2 Full Stack project [![Dependencies][![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/ilyaradu) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 
 
 The front-end of this project was generated with [Angular CLI](https://github.com/angular/angular-cli).
@@ -41,4 +41,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ### Author
-* [Ilya Shusterman](https://github.com/ilyashusterman)
+* [Ilya Shusterman](https://github.com/ildevelop)
