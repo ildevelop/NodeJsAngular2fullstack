@@ -12,19 +12,23 @@ This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_
 * [Bootstrap](http://www.getbootstrap.com): layout and styles
 * [Font Awesome](http://fontawesome.io): icons
 
-## Prerequisites
+## RUN Cli
 1. Install [Node.js](https://nodejs.org) and [MongoDB](https://www.mongodb.com)
 2. Install Angular CLI: `npm i angular-cli -g`
 3. From project root folder install all the dependencies: `npm i`
+4. Run app `ng serve`
 
-## Run
+## Run BE
 1. Command window 1: `mongod`: run MongoDB
 2. Command window 2: `npm run be`: run Express backend server (with autoreload)
 3. Command window 3: `npm start`: run Angular frontend (with autobuild and autoreload)
-4. Browser will automatically open to: [localhost:4200](http://localhost:3000)
+4. Browser will automatically open to: [localhost:4200](http://localhost:4200)
 
 ## Production
-Run `npm run prod` to run frontend with a production ready bundle.
+1. Run `ng build --prod` to run frontend with a production ready bundle.
+2. `npm install -g angular-http-server` download package server
+3. CD to folder ##dist and Run `angular-http-server`  
+4. Open [localhost:8080](http://localhost:8080)
 
 
 ## To do
